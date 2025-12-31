@@ -1,5 +1,5 @@
 # __Konspekt gry__  + readme na samym dole
-Tutaj nowy rozdział
+Tutaj nowy rozdział, ale już poprawiony
 ##
 # 1. Ogolne zasady - dla dwóch graczy - przebieg rund:
 
